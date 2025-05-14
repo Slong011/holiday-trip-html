@@ -1,7 +1,7 @@
 # Vacation Experience Getaway - Sydney Long
 
 ## Overview
-This project is a simple HTML webpage that showcases a dream vacation to New York City during the Christmas season. It includes details about the places I would visit, activities I would do, food I would eat, and highlights of the vacation.
+This web design class project is a simple HTML webpage that showcases a dream vacation to New York City during the Christmas season. It includes details about the places I would visit, activities I would do, food I would eat, and highlights of the vacation.
 
 ## Features
 - Detailed sections about the trip
